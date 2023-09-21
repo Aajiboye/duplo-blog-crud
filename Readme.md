@@ -38,3 +38,5 @@ The structure of the project folder is such that facilitates separation of conce
 
 You can run the test suits by running ```npm run test```
 
+## API Docs
+https://documenter.getpostman.com/view/8640133/2s9YCBsUdt
